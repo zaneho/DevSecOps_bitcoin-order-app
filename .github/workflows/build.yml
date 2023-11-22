@@ -1,4 +1,4 @@
-name: Bitcoin order Appp
+name: Bitcoin order App
 on:
   push:
     branches:
